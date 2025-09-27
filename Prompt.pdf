@@ -1,0 +1,29 @@
+Generate a Next.js + Tailwind CSS multi-page, modern, responsive portfolio website for a web developer named Adamanth. It should be optimized for free hosting on Vercel.
+
+Pages and Content:
+
+Home Page: Hero section with the name “Adamanth” and the motto “Turning complex code into simple, stunning experiences.” Add a button linking to the Projects page.
+
+About Page: A short bio: “I’m Adamanth, a web developer who loves making the strange and complex feel approachable. I thrive on creative problem-solving, blending clean code with thoughtful design. My work is all about building digital experiences that are functional, engaging, and a little bit unexpected.” Below it, add a Skills section with cards for: React, Next.js, Tailwind CSS, TypeScript, Node.js, Express, PostgreSQL, APIs (REST & GraphQL), Docker, Git/GitHub, and AI integrations.
+
+Projects Page: Placeholder project cards with titles, short descriptions, and “Coming Soon” buttons.
+
+Resume Page: A section with a “Download Resume” button. The button should link to a placeholder PDF file.
+
+Testimonials Page: Placeholder section with “Testimonials coming soon” in styled cards.
+
+Contact Page: Include email and Facebook icons with links.
+
+Design Requirements:
+
+Dark theme, modern styling, responsive across devices.
+
+Smooth animations and hover effects.
+
+Navigation bar with links to each page.
+
+Responsive design that works great on desktop, tablet, and mobile.
+
+Use Tailwind utilities for styling consistency.
+
+The output should be a Next.js project structure ready to be pushed to GitHub and deployed on Vercel for free.
